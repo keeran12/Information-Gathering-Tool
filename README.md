@@ -7,7 +7,11 @@ Domain information gathering,
 IP address information gathering,
 Whois information gathering,
 Port scanning
-Clone Command:$ git Clone https://github.com/keeran12/Information-Gathering-Tool.git
-Run Command: $ IG.py 
+ 
+ 
+   Clone Command:$ git Clone https://github.com/keeran12/Information-Gathering-Tool.git
+   
+   
+   Run Command: $ IG.py 
 
 
